@@ -1,4 +1,6 @@
 # PVPMinecraftPlugins
+
+[![Join the chat at https://gitter.im/bitsol/PVPMinecraftPlugins](https://badges.gitter.im/bitsol/PVPMinecraftPlugins.svg)](https://gitter.im/bitsol/PVPMinecraftPlugins?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A group of simple Minecraft plugins that work with ScriptCraft to add a few epic features to your PVP server!
 ## An up-to-date list of plugins included:
 PlayerJoinMessage<br>
