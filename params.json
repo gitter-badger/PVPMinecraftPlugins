@@ -1,0 +1,6 @@
+{
+  "name": "Pvpminecraftplugins",
+  "tagline": "A group of simple Minecraft plugins that work with ScriptCraft to add a few epic features to your PVP server!",
+  "body": "# PVPMinecraftPlugins\r\nA group of simple Minecraft plugins that work with ScriptCraft to add a few epic features to your PVP server!\r\n## Dependencies\r\n<a href=\"http://scriptcraftjs.org\">ScriptCraft</a><br>\r\nThese plugins (like ScriptCraft) work with any Bukkit/Spigot server.\r\n## Installation\r\nInstall <a href=\"http://scriptcraftjs.org\">ScriptCraft</a>, download the plugins you want from this repo, and move the .js files to your server's ScriptCraft plugin directory:<br>\r\nTo find your server's ScriptCraft plugin directory, visit your server's root folder, then go to /plugins/ScriptCraft/plugins.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
